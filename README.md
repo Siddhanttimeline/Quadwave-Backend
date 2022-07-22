@@ -39,4 +39,4 @@
 5. For all the endpoints, loggings will be done.
 
 #ER 
-<img src = "  ">
+<img src = "https://github.com/Siddhanttimeline/Quadwave-Backend/blob/main/ER%20Quadwave.png ">
