@@ -38,5 +38,6 @@
 4. Destination is console and external log file in the drive.
 5. For all the endpoints, loggings will be done.
 
-#ER 
+# ER 
+<br>
 <img src = "https://github.com/Siddhanttimeline/Quadwave-Backend/blob/main/ER%202.png ">
